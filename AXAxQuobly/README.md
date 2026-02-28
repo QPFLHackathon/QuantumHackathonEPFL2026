@@ -151,4 +151,7 @@ This excellent review comprehensively studies the state-of-art of quantum comput
 - [Challenges and Oppourtunities in Quantum Optimization](https://arxiv.org/pdf/2312.02279) <br>
 Extremely thorough review of the quantum optimziation space covering all aspects of its research including problem classes, execution and benchmarking.
 
+- [WhatsApp Group Link](https://chat.whatsapp.com/D3mEj3gdgwV9AFeUGWPD45?mode=gi_t) <br>
+The link for the whatsapp group to ask any questions to Alain or I (George) if you can't find us.
+
 
